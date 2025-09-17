@@ -50,7 +50,7 @@ A modern, responsive web application for viewing and analyzing SSL/TLS certifica
 
    ```bash
    git clone https://github.com/yourusername/cert-view.git
-   cd cert-view
+   cd ssl-tls-certificate-viewer
    ```
 
 2. **Install dependencies**
